@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://github.com/hkust-nlp), Hong Kong University of Science and Technology (HKUST), where I am advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), where I am advised by Professor Junxian He. My research focuses on natural language processing and machine learning.
 
 I graduated from Shanghai Jiao Tong University (SJTU) in June 2024 with a B.Eng. degree, during which I was also advised by Professor Junxian He.
 
@@ -42,7 +42,7 @@ Honors
 
 Publications
 ======
-\*\* indicates first authorship.\*\*
+*Junteng Liu's name is shown in bold to indicate first authorship.*
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond**. **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. *arXiv*, 2025. (First author; code available on GitHub)
 2. **On the Perception Bottleneck of VLMs for Chart Understanding**. **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025. (First author; code repository: Vision4Chart)
